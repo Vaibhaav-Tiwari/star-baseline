@@ -145,17 +145,4 @@ Input: X ∈ R^{N×G}   edge_index ∈ Z^{2×E}
     L_StaR = L_recon + λ₁·L_consist + λ₂·L_noise + λ₃·L_var
 ```
 
----
 
-## Citation
-
-If you use this code, please cite:
-
-```
-Tiwari, V. (2026). StaR: Stability-Aware Representation Learning for Spatial
-Domain Identification. GSoC 2026 Proposal, UC OSPO / OSRE.
-```
-
----
-
-**License:** Apache 2.0
