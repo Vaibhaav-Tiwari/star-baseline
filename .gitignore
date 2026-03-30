@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+.venv
+*.h5ad
+*.h5
+*.pt
+*.pth
+data/raw/
+.DS_Store
+*.log
+wandb/

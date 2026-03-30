@@ -1,0 +1,24 @@
+# ── Core (always required) ────────────────────────────────────────────────────
+numpy>=1.24.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+pandas>=2.0.0
+seaborn>=0.12.0
+
+# ── Real data loading (optional but recommended) ──────────────────────────────
+# pip install scanpy squidpy anndata
+# scanpy>=1.9.0
+# squidpy>=1.3.0
+# anndata>=0.10.0
+
+# ── PyTorch training (optional) ───────────────────────────────────────────────
+# pip install torch torch-geometric
+# torch>=2.0.0
+# torch-geometric>=2.3.0
+
+# ── Experiment tracking (optional) ───────────────────────────────────────────
+# wandb>=0.15.0
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+pytest>=7.0.0
